@@ -1,7 +1,18 @@
 package cuentas;
 
+/**
+ * Clase Main (Principal) para el programa 'Deposito_ED04'.
+ * Tarea 4 de Entornos de Desarrollo.
+ * 
+ * @author majuanmartinez
+ * @since 2023 February 14th
+ */
 public class Main {
 
+    /**
+     *
+     * @param args
+     */
     public static void main(String[] args) {
         CCuenta cuenta1;
         cuenta1 = operativa_cuenta(0);
